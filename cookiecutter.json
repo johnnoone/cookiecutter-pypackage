@@ -1,11 +1,13 @@
 {
-	"full_name": "Audrey Roy",
-	"email": "audreyr@gmail.com",
-	"github_username": "audreyr",
+	"full_name": "Xavier Barbosa",
+	"email": "clint.northwood@gmail.com",
+	"github_username": "johnnoone",
 	"project_name": "Python Boilerplate",
+  "package": "boilerplate",
 	"repo_name": "boilerplate",
-	"project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+	"summary": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
 	"release_date": "2014-01-11",
 	"year": "2014",
-	"version": "0.1.0"
+	"version": "0.1.0",
+  "license": "BSD"
 }
